@@ -1,11 +1,11 @@
 # 👋 Hi, I’m Hasnain Abbas (@hasnain112e)
 
-- 👀 I’m interested in **Artificial Intelligence, Data science,ML ,NLP,django, Web Development, and SaaS Applications**
-- 🌱 I’m currently learning **Machine Learning, Django, and APIs (OpenAI, Google Gemini)**
-- 💞️ I’m looking to collaborate on ** AI& DATA SCIENCE & ML 
-- 📫 Reach me at: hasnainkhalidkpr@gmail.com
-- 😄 Pronouns: He
-- ⚡ Fun fact: I love turning real-world problems into smart digital solutions — one script at a time 🚀
+- 👀 I’m deeply interested in **Artificial Intelligence, Data Science, Machine Learning, NLP, Django, Web Development, and SaaS Applications**
+- 🌱 Currently sharpening my skills in **Machine Learning, Django, and cutting-edge APIs like OpenAI & Google Gemini**
+- 💞️ Open to collaboration on impactful projects in **AI, Data Science, and ML-driven web applications**
+- 📫 Reach me at: **hasnainkhalidkpr@gmail.com**
+- 😄 Pronouns: **He/Him**
+- ⚡ Fun fact: I thrive on solving real-world problems with code — transforming ideas into powerful AI-driven solutions 🚀
 
 <!---
 hasnain112e/hasnain112e is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
